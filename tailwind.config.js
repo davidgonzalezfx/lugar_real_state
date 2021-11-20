@@ -7,10 +7,10 @@ module.exports = {
   theme: {
     extend: {
       colors: {
-        primary: "#cc5555",
-        secondary: "#011627",
-        tertiary: "#ff5722",
-        quaternary: "#9856aa",
+        white: "#FFFFFF",
+        gray: "#BDBDBD",
+        primary: "#AFD4E2",
+        secondary: "#1E3240",
       },
     },
   },
